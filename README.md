@@ -3,7 +3,7 @@
 This is a repository for IFN646: Biomedical Data Science Project under Semester 2, 2020 from Queensland University of Technology. The goal of this project is to build a classifier that will be able to classify the chest X-ray images into three categories: Normal, Pneumonia or COVID. Project contributors are:
 
 * [Atif Ibne Zoha Sreezon][atif-github]
-* Bahar Shahrestanaki
+* Bahareh Shahrestanaki
 * Nahid Ebrahimi
 
 Current files in the repository includes:
