@@ -7,7 +7,6 @@ This is a repository for IFN646: Biomedical Data Science Project under Semester 
 * Nahid Ebrahimi
 
 ## Requirements
-_____________________________
 There are two environment files (.yml) in the repository, named 'envbiopy.yml' and 'envcovidnet.yml'. The first one contains the necessary packages with required versions to run the project notebook. The second one is for generating the dataset. Details instructions for generating the dataset is given in the next section.
 Project Requirements:
 * numpy
@@ -17,10 +16,9 @@ Project Requirements:
 * tqdm
 * jupyter notebook/lab
 
-To create the environment using the yml file, please run the following command from your conda prompt: `conda env create -f envbiopys.yml`
+To create the environment using the yml file, please run the following command from your conda prompt: `conda env create -f envbiopy.yml`
 
 ## X-ray Image Data Source
-_____________________________
 The image dataset for this project has been procured from the open-access COVID-19 X-RAY (CXR) dataset under the [COVID-Net project](https://github.com/lindawangg/COVID-Net/blob/master/docs/COVIDx.md). The minimum requirements for generating the dataset are:
 
 * OpenCV 4.2.0
