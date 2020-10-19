@@ -4,7 +4,7 @@ This is a repository for IFN646: Biomedical Data Science Project under Semester 
 
 * [Atif Ibne Zoha Sreezon][atif-github]
 * [Bahareh Shahrestanaki][bahar-github]
-* Nahid Ebrahimi
+* [Nahid Ebrahimi][nahid-github]
 
 ## Requirements
 There are two environment files (.yml) in the repository, named 'envbiopy.yml' and 'envcovidnet.yml'. The first one contains the necessary packages with required versions to run the project notebook. The second one is for generating the dataset. Details instructions for generating the dataset is given in the next section.
@@ -73,3 +73,4 @@ Patients distribution
 
 [atif-github]: https://github.com/atif-sreezon
 [bahar-github]: https://github.com/baharSh
+[nahid-github]: https://github.com/nahidebrahimi
